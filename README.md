@@ -1,1 +1,1 @@
-# cv-fashion-mnist-digit-classification
+# cv-fashion-mnist-ml-pipeline
